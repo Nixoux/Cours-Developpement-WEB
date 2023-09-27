@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    color: blue;
+}
+ul {
+    font-size: 15;
+    font-family: Impact;
+    text-align: left;
+}
+.center {
+    text-align: center;
+}
+
+div{
+    text-align: justify;
+}
+
